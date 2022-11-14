@@ -1,4 +1,4 @@
-# practice-with-fastai-courses
+# practice-notebooks
 
 This repo contains Jupyter Notebooks where I practiced the concepts and techniques demonstrated in the following courses:
 - Practical Deep Learning for Coders - Part I ([2022](https://course.fast.ai/), [2020](https://course20.fast.ai/))
